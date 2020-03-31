@@ -1,6 +1,7 @@
 import React from "react";
 
 
+
 // in stateless componenet function you have to pass in props and remove this keyword
 const Like = (props) => {
     let classes = "UnLike";
